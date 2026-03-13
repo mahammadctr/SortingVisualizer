@@ -34,7 +34,7 @@ The time and space complexities of the currently visualized algorithm are displa
 
 ## Live Demo
 
-Check out the live version of the Sorting Visualizer: [Sorting Visualizer Live](https://mahammadctr.github.io/SortingVisualizer/)
+Check out the live version of the Sorting Visualizer: [Sorting Visualizer Live](https://mahammad1500.github.io/SortingVisualizer/)
 
 ## Responsive Design
 
